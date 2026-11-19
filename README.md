@@ -1,5 +1,5 @@
 # v909x
-v909x.pu
+v909x.py
 
 pkg update && pkg upgrade
 
